@@ -47,7 +47,5 @@ You're so excited to be in your new position you really want to do something tha
 * Use additional plug-ins from the [Leaflet Documentation](http://leafletjs.com/plugins.html) to further visualize our data in a unique way.
 
   * Heatmap
-    ![Heat](Images/Heat.png)
 
   * Data Clustering
-    ![Cluster](Images/Cluster.png)
